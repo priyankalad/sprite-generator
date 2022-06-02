@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 21 Copy</title>
+    <g id="navigation-bar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-21-Copy">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            <g id="calendar-icon-colored" transform="translate(2.014085, 3.000000)">
+                <path d="M2.59852469,0 L16.8709459,0 C18.545259,0 19.902558,1.27772 19.902558,2.8538675 L19.902558,3.51809027 C19.902558,3.72554467 19.7239087,3.8937197 19.5035336,3.8937197 L0.39902439,3.8937197 C0.178649305,3.8937197 0,3.72554467 0,3.51809027 L0,2.44617214 C0,1.09518857 1.16339913,0 2.59852469,0 Z" id="Path" fill="#12B79D" fill-rule="nonzero"></path>
+                <ellipse id="Oval" fill="#F75848" cx="14.4646341" cy="7.98212538" rx="2.49390244" ry="2.34768394"></ellipse>
+                <ellipse id="Oval-Copy-3" fill="#12B79D" cx="5.48658537" cy="7.98212538" rx="2.49390244" ry="2.34768394"></ellipse>
+                <ellipse id="Oval-Copy" fill="#EAE01F" cx="14.4646341" cy="15.0251772" rx="2.49390244" ry="2.34768394"></ellipse>
+                <ellipse id="Oval-Copy-2" fill="#666EBC" cx="5.48658537" cy="15.0251772" rx="2.49390244" ry="2.34768394"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pin</title>
+    <g id="PinIcon" stroke="none" stroke-width="1" fill="nonzero" fill-rule="evenodd">
+        <g id="Pin_Icon" fill="nonzero">
+            <path d="M16,12V4H17V2H7V4H8V12L6,14V16H11.2V22H12.8V16H18V14L16,12Z" />
+        </g>
+    </g>
+</svg>

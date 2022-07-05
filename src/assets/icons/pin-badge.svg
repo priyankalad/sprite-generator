@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 18</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32" rx="16"></rect>
+        <filter x="-21.9%" y="-15.6%" width="143.8%" height="143.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.376470588   0 0 0 0 0.380392157   0 0 0 0 0.439215686  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.156862745   0 0 0 0 0.160784314   0 0 0 0 0.239215686  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Groups---Initial" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="group-feed-membersALTV-Copy-5" transform="translate(-578.000000, -711.000000)">
+            <g id="Group-43" transform="translate(179.000000, 144.000000)">
+                <g id="Group-9" transform="translate(0.000000, 67.000000)">
+                    <g id="Group-18" transform="translate(403.000000, 502.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="❑-Elevation" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                            <use fill="#FCB116" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Group-2" mask="url(#mask-2)">
+                            <g transform="translate(4.000000, 4.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                                <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(7.800000, 6.700000)">
+                                    <path d="M4.5,0 C5.32049174,0 6.08969558,0.223065995 6.75204836,0.612755159 L6.77012952,0.612138139 C6.226452,0.612138139 5.78571429,1.05985339 5.78571429,1.61213814 C5.78571429,2.16442289 6.226452,2.61213814 6.77012952,2.61213814 C7.31380704,2.61213814 7.75454475,2.16442289 7.75454475,1.61213814 C7.75454475,1.53533495 7.74602135,1.46055402 7.72988302,1.3887182 C8.51598793,2.2112328 9,3.33381888 9,4.57124174 C9,7.09586885 6.98528137,9.14248349 4.5,9.14248349 C4.34695355,9.14248349 4.19569158,9.13472224 4.0465747,9.11956606 L4.10278252,8.98374392 C4.31170331,8.48045538 4.07696355,7.90274284 3.57621175,7.68781289 C3.57264957,7.68628395 3.56907826,7.68477634 3.56549804,7.68329015 C3.10532393,7.49226665 2.58226153,7.68122681 2.34517711,8.1059785 L2.29570065,8.20811814 L2.17974804,8.48878208 C0.873531515,7.68874004 0,6.233618 0,4.57124174 C0,2.04661464 2.01471863,0 4.5,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                                    <path d="M0.131658754,10.2248139 L4.67539282,10.1992838 C4.90895291,10.1979715 5.09935461,10.3862455 5.10066693,10.6198056 C5.10067588,10.6213984 5.10067583,10.6229912 5.10066678,10.624584 C5.09932057,10.8615757 4.90752559,11.0533589 4.67053378,11.0546905 L0.126799716,11.0802205 C-0.106760373,11.0815328 -0.297162076,10.8932588 -0.298474389,10.6596987 C-0.298483339,10.658106 -0.29848329,10.6565131 -0.298474242,10.6549204 C-0.297128038,10.4179286 -0.105333054,10.2261455 0.131658754,10.2248139 Z" id="Rectangle" fill="#FFFFFF" transform="translate(2.401096, 10.639752) rotate(-67.000000) translate(-2.401096, -10.639752) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
